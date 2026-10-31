@@ -1,0 +1,24 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Sat, 31 Oct 2026 13:01:38 +0000
+Description: PuestoYa para Linux
+Label: PuestoYa
+Origin: PuestoYa
+Suite: stable
+MD5Sum:
+ cd92426b18bbcb59b899016a40f7724e              173 Release
+ 130a5860b6f44ac09d64d4be4a6f6ae9             1411 main/binary-amd64/Packages
+ 8755fc127dee8bc9f503471ec019fe07              822 main/binary-amd64/Packages.gz
+SHA1:
+ d9a9866e02d415ffa844db140509ecf9bf506e4f              173 Release
+ d3144229c78708cba8bfa2ae641d1e762784ec60             1411 main/binary-amd64/Packages
+ 1fe6804ea6d48b5fe560a699ea2fdf080b07000d              822 main/binary-amd64/Packages.gz
+SHA256:
+ 184633a9fd4b5d89f4390135ff7dee5b6f1b59d0a2829f30f4f660ab3308551c              173 Release
+ ca1d08336d6b2a5c27550343197df3d5f82b7575416ec5e69d530d0409f366df             1411 main/binary-amd64/Packages
+ 89302470e70c422888305b9c38860c319367e3015944ff843328311072e58023              822 main/binary-amd64/Packages.gz
+SHA512:
+ 8959a8d754c5d699501d25a0ee6c20e3091693a8eb446897ff2e7580516cb044271038ed57062a1f45928abc5d45dd5a1ed9968483bea693e4845b4643f0b4a2              173 Release
+ 47cd8d8af25df430dd8fb3b105562119ef194b67b3aa02ad22e1c69785f7442e4fbfdcbe1366f62c803e16dcd47bec966e75be0e047ca5b059d91bcb521e9601             1411 main/binary-amd64/Packages
+ 1c5c7417ae363ffa80f6b3b7eb697014e467b772d35e0237afe1b4e73c2ccf24083ddce5a57dc0d01d0faa989b0c5f416c0f979e0dd276afe8e64d5595038911              822 main/binary-amd64/Packages.gz
