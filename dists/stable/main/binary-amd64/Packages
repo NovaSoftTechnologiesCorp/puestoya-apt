@@ -1,24 +1,5 @@
 Package: puestoya
 Architecture: amd64
-Version: 2.0.4+75
-Priority: optional
-Section: web
-Maintainer: NovaSoft Technologies <informes@mipuestoya.com>
-Installed-Size: 61092
-Depends: libatk1.0-0 (>= 2.7.91), libc6 (>= 2.34), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.14.0), libdrm2 (>= 2.4.75), libepoxy0 (>= 1.0), libfontconfig1 (>= 2.12.6), libgbm1 (>= 7.11~1), libgcc-s1 (>= 3.0), libgdk-pixbuf-2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.39.90), libgstreamer-plugins-base1.0-0 (>= 1.0.0), libgstreamer1.0-0 (>= 1.6.0), libgtk-3-0 (>= 3.21.4), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.29.4), libpangocairo-1.0-0 (>= 1.14.0), libpulse0 (>= 0.99.1), libstdc++6 (>= 11), libx11-6, libxcomposite1 (>= 1:0.4.5), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxrandr2, gstreamer1.0-plugins-base, gstreamer1.0-plugins-good
-Filename: pool/main/p/puestoya/puestoya_2.0.4+75_amd64.deb
-Size: 20564792
-MD5sum: 9a75f9a36f58e09b1a21e9a9f044173f
-SHA1: 8ad1f4fcb01cbf8854ae0d07d9dbad0a72340919
-SHA256: 9012beaa979fb61ad72cc6627a855d9f61f4f2f91f5d3cc43cd7a6e0abc110b5
-SHA512: a49ca264ef8af230be128023d10db390738b10cb17c94ed7f94327487e123bcf9a39332c977e7ff93ff8646ac5ea64654f33ab2176f1a77d85e10e29a3123e6f
-Homepage: https://mipuestoya.com
-Description: PuestoYa, tu puesto en el mercado virtual
- Compra en las tiendas de PuestoYa o abre la tuya: catálogo, pedidos,
- chats y llamadas con tus clientes, caja y comprobantes.
-
-Package: puestoya
-Architecture: amd64
 Version: 2.0.5+76
 Priority: optional
 Section: web
@@ -50,6 +31,25 @@ MD5sum: 6b598e2385a90c8e9740b82e09953597
 SHA1: 0ef1aa68c362bf22e5895a5fb4fe3c8b49fe6131
 SHA256: b07de905e051673f472ac34c08223351289b1ffb3d17a8c51dbbbecf169c8119
 SHA512: 2f84ae955fa1e8cfcd745210527b4f61016c9479097edf95c0a674d9a91e4c8c217d458e371ebd79c0404f85a6ea4ec70f3bb44fb14fa320483531bc67ec4f63
+Homepage: https://mipuestoya.com
+Description: PuestoYa, tu puesto en el mercado virtual
+ Compra en las tiendas de PuestoYa o abre la tuya: catálogo, pedidos,
+ chats y llamadas con tus clientes, caja y comprobantes.
+
+Package: puestoya
+Architecture: amd64
+Version: 2.0.7+78
+Priority: optional
+Section: web
+Maintainer: NovaSoft Technologies <informes@mipuestoya.com>
+Installed-Size: 61544
+Depends: libatk1.0-0 (>= 2.7.91), libc6 (>= 2.34), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.14.0), libdrm2 (>= 2.4.75), libepoxy0 (>= 1.0), libfontconfig1 (>= 2.12.6), libgbm1 (>= 7.11~1), libgcc-s1 (>= 3.0), libgdk-pixbuf-2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.39.90), libgstreamer-plugins-base1.0-0 (>= 1.0.0), libgstreamer1.0-0 (>= 1.6.0), libgtk-3-0 (>= 3.21.4), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.29.4), libpangocairo-1.0-0 (>= 1.14.0), libpulse0 (>= 0.99.1), libstdc++6 (>= 11), libx11-6, libxcomposite1 (>= 1:0.4.5), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxrandr2, gstreamer1.0-plugins-base, gstreamer1.0-plugins-good
+Filename: pool/main/p/puestoya/puestoya_2.0.7+78_amd64.deb
+Size: 20735324
+MD5sum: 7ccfc1a2657103129295e01874f05946
+SHA1: 2dbb30ce7d6606023367d5647bc2fa6cb93fe3ad
+SHA256: 79274a1829908466eba66d50ece6d067d2e5b9cee0b5a19db3156c84b9902cf5
+SHA512: b976e268c8728ed802a64bc910c1b3b68556ae2b525c583c1aaef472b4a129e416e6974796133c05a64f1f07686a0608dd02da405e63ff372782248a4d108530
 Homepage: https://mipuestoya.com
 Description: PuestoYa, tu puesto en el mercado virtual
  Compra en las tiendas de PuestoYa o abre la tuya: catálogo, pedidos,

@@ -1,24 +1,24 @@
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Wed, 11 Nov 2026 17:19:02 +0000
+Date: Wed, 11 Nov 2026 17:29:46 +0000
 Description: PuestoYa para Linux
 Label: PuestoYa
 Origin: PuestoYa
 Suite: stable
 MD5Sum:
- bc55479b78cff74dacecf121dabbd466              173 Release
- fac616bb166de15deaa30642adb1224a             4233 main/binary-amd64/Packages
- 45742aa15bafc9d4f13c34c58b95c9c1             1244 main/binary-amd64/Packages.gz
+ 22255a7c06452c9e7f3f3cffc08dc0fb              173 Release
+ 28f8c68b9ea95e2fe2710a9f22f9720e             4233 main/binary-amd64/Packages
+ 6d7f1358e215b50570a5d2ac78c257e8             1244 main/binary-amd64/Packages.gz
 SHA1:
- ddcb287f4e52dd977c4ae728521b12c1a7a3022e              173 Release
- bb6855b86e92d8aba89afd56cb368d6e64c41b21             4233 main/binary-amd64/Packages
- 93319dc6718c9971d38e0677b87f372ef18180d2             1244 main/binary-amd64/Packages.gz
+ c5fec8f76cbf394cf11e59a73efa676e7abfd2cb              173 Release
+ a24d505f00383536b3c5b23fc4504a54d89527c7             4233 main/binary-amd64/Packages
+ 19acb82097512bbd76d616134f6f29c9b187d080             1244 main/binary-amd64/Packages.gz
 SHA256:
- 2f5a1877a256c50abc941b59fa31580ef88f275bb9b8fea8c1e5f1719e8c68d2              173 Release
- db0791758cd8542fb106ce0d1b6c660cdc1a1d5144c9e25bdb12b608e8e214bf             4233 main/binary-amd64/Packages
- e31b1beb3a1fa8e9de4e4657f54d1ac411e8e5e8e5a8e5a264d477bf19d2258b             1244 main/binary-amd64/Packages.gz
+ 8a8adea88f9ce54a7c6be90f1b513ff960c2958533d6c77ddb1c6b685e594c77              173 Release
+ cbf33496bc76a932224cacd08b69748aabab0d72d8dc3590192ef766af15c2db             4233 main/binary-amd64/Packages
+ ef996d2887b18f14bed428ff53dcb95570ccb0b0f726b972179137fc2831a0f1             1244 main/binary-amd64/Packages.gz
 SHA512:
- bfb8a61396fda42f3cf2e9a864645838ab1dfc9801a4699416215bb9887aad4a0df92cd266961278ca48c4727d5acee7bc7186466dc91922501ef05861e0697a              173 Release
- a6dba09441dd4a7735dc5a0ed1e16c7664c947fde5943efda9a8b8987f9717ff73200e813830de6bd88ebdc72cca780cda89bec01a6a8e1385142411f2eab3ec             4233 main/binary-amd64/Packages
- 139f1218b92b61af4a3e76335f9013fc1560ff11ef5e5071b928106c1fbb3ca043ea19e9be6251b17ff786831f05efe6ecd91df4d3ef68cef0875164de037319             1244 main/binary-amd64/Packages.gz
+ c74252d7670c64e9616f576c9ea2f1288579cb430961f5b9c7218603fdaa02db672b283b1f6c717d6085a8d6c84418cd5275b5bb79d5169219ff42de0e26bfc3              173 Release
+ 86855527d1cf8dcb6ad5427a885bf36b660ff87cf60a7e994af6e39dfe1f9b92f9141587a9227ebae711e0d86332c93d6e7f3d081a56a7971a8c9735fd30316c             4233 main/binary-amd64/Packages
+ 7b8efdd86127d467ead7ad5c54b3b2c58c12a4be056d467fcb31052d2a3e89f955754d4a2f9a8843a23110b3fa7f0a5380d633a151d3038e336a740e3d88d599             1244 main/binary-amd64/Packages.gz
