@@ -4,31 +4,31 @@ Hash: SHA256
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Fri, 13 Nov 2026 13:52:30 +0000
+Date: Fri, 13 Nov 2026 17:02:22 +0000
 Description: PuestoYa para Linux
 Label: PuestoYa
 Origin: PuestoYa
 Suite: stable
 MD5Sum:
- cd545f49ce767e1941ebcfb86c38ddc4              173 Release
- aa27b360ac3685ce5448ea1431b05038             4233 main/binary-amd64/Packages
- 3d0b731485d67621e32961e37c0d12ef             1241 main/binary-amd64/Packages.gz
+ 8a071ed661aca5725ca244ee693f6ebe              173 Release
+ 4d307f47d096c35417f7dc8befeb7c4d             4233 main/binary-amd64/Packages
+ c801ae3efcbb94f669bf5f10da1edc4c             1245 main/binary-amd64/Packages.gz
 SHA1:
- 6c4e3cd99755bd6f4b6eb08ad731cc1f164fd62f              173 Release
- a8d63961a1e875eea20dcf3aef7c23f2038d8d1e             4233 main/binary-amd64/Packages
- 2763775c2a39a8d861375ecdeeb23178c5331698             1241 main/binary-amd64/Packages.gz
+ 97348b9001715fc16fe9cecd3385c9e83eec5cd0              173 Release
+ 981bfff9c618a6a5d364800aaba500c3d35610a1             4233 main/binary-amd64/Packages
+ 873435d0dcfbca77f11b4c5d5ad9ae5133bf02c5             1245 main/binary-amd64/Packages.gz
 SHA256:
- fdb423fd3d8ad160d5e61796b54b3d6805aaaf82ce849f250defe69a381fd190              173 Release
- adb4db267fbda4be2fd7f038c90e32b5965c2a551ac3497884d5c57b4e71a383             4233 main/binary-amd64/Packages
- 46f656d487c60a8d0ebbeb8bd42ae511fb44363ae6ec472a3f84a19679d84300             1241 main/binary-amd64/Packages.gz
+ e5433530bd46ffba3300c4cf41b0289b447d9a53bbfea1fea4a63b907d57bca1              173 Release
+ 5d8fbc1a6143ab74fe17331c9bf8e2310e2940ab9e84bcc4211114fb3a3eeba7             4233 main/binary-amd64/Packages
+ 1a25ed2d383ce0ac9754b16e09b940994fd098cf76578ed336e68f3154675d0a             1245 main/binary-amd64/Packages.gz
 SHA512:
- 90d04484dc524e9fe2bceaaf440df445b1c473425103492c0e4e91cebb17a80a07eeb38aac70993a8a10638b4c6af5cd2f383568a9921a2dfda1188e8b15fde2              173 Release
- daff7ce3c3ac82552f3b6272829339b863ddfa05d8ca24e1c0feef539bbae825b85ef21f77baa94e067cf33dbcf40bfea78a1c92cee10befeec93ce501a1fdfd             4233 main/binary-amd64/Packages
- 04fb81d0dd4228fadcfaba5fdf9842454114886756ab63942fa9b21cf27bcc936d2bfc344ab0603811bbdc322f333ba0dac23a663955d4f9ef16eece88618cfa             1241 main/binary-amd64/Packages.gz
+ 9c6f7603ac7bac8c0131d814ff795b9e407bfdf201da1dd2ec295af241d7e367af03b6c93267c6de3e5757e6b7959cb63aad638ba678a8668b7f81232c401072              173 Release
+ 3205ac0dadda56ed503d81c5ea85da87a89b512d0546a491754e7b0988a2d0f5446a72ace6f5ec9fd0c07b3a1585892a035bc0fafa5fb57341dd2bfbef43b98a             4233 main/binary-amd64/Packages
+ 1c1c936d251e19abcc104b6dc49dfb4d3c8b79cf63d987fa678c63003199d314c0bddbaa8f3e8a28095149a774f2851251202a8b76bfbf97560fa53617240713             1245 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQTQ/OeHTJiLR3VhmkhoYcWmf0G1hgUCavcWHgAKCRBoYcWmf0G1
-hsVXAQD1wqJ3oKkGiT9dyR4jYR+dVgqpevOTCIjlWYfzsA++3gD/XT1Wd5uhG/2E
-2YiiCl8aah9h4jKZOuxONZ4NeFKorgU=
-=W6V3
+iHUEARYIAB0WIQTQ/OeHTJiLR3VhmkhoYcWmf0G1hgUCavdCngAKCRBoYcWmf0G1
+hgRZAQCSYw+mip5+HpuJ++vbstR6W7wzcnDLtlnAHRSHSQ6LZwD/TRtVgzV73JJ6
++RSbz7jmSMCMrrjW8tvEBtWtP6ZGOgE=
+=HIGG
 -----END PGP SIGNATURE-----
